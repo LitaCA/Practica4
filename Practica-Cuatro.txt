@@ -1,3 +1,4 @@
+
 || EJEMPLO DE HERENCIA ||
 
 interface IPersona
